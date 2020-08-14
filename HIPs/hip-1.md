@@ -9,9 +9,9 @@ Warped Spacetime with Crypto Native Primitives
 
 ---
 Options: 
-A) Yield Farming
-B) Bounty Program
-C) Ecosystem Funds
-D) Limited Token Sale
-E) Decentralized Exchanges
-F) Centralized Exchanges
+1. Yield Farming
+2. Bounty Program
+3. Ecosystem Funds
+4. Limited Token Sale
+5. Decentralized Exchanges
+6. Centralized Exchanges
