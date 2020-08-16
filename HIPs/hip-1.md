@@ -8,6 +8,11 @@ Hakka Decentralized Finance Ecosystem
 Warped Spacetime with Crypto Native Primitives
 
 ---
+
+NotOptions: 
+1. 123
+2. 321
+
 Options: 
 1. Yield Farming
 2. Bounty Program
@@ -15,7 +20,3 @@ Options:
 4. Limited Token Sale
 5. Decentralized Exchanges
 6. Centralized Exchanges
-
-NotOptions: 
-1. Yield Farming
-2. Bounty Program
