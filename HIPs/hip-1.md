@@ -9,7 +9,7 @@ Warped Spacetime with Crypto Native Primitives
 
 ---
 
-NotOptions: 
+options: 
 1. 123
 2. 321
 
