@@ -19,7 +19,3 @@ Options:
 NotOptions: 
 1. Yield Farming
 2. Bounty Program
-3. Ecosystem Funds
-4. Limited Token Sale
-5. Decentralized Exchanges
-6. Centralized Exchanges
