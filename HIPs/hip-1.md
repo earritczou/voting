@@ -9,10 +9,6 @@ Warped Spacetime with Crypto Native Primitives
 
 ---
 
-options: 
-1. 123
-2. 321
-
 Options: 
 1. Yield Farming
 2. Bounty Program
